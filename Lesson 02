@@ -1,1 +1,27 @@
 Dia 2
+Repositório  Local:
+gitinit(Cria  um novo repositório  na pasta atual)
+•gitadd"Nome da pasta"(Adicionapasta)
+•gitaddnome_do_arquivo.js(Adiciona arquivo)
+•gitadd.(Adiciona todas as alterações)
+•gitrmnome_do_arquivo.js(Remove  arquivo)
+•gitrm"Nome da pasta"(Remove  pasta)
+
+Commits:
+•gitcommitnome_do_arquivo.js
+•gitcommitnome_do_arquivo.js  outro_arquivo.txt
+•gitcommitoutro_arquivo.txt -m "Mensagem doCommit"
+•gitstatus(Mostra os arquivos modificados)
+
+Branches:
+•gitbranch(Informa  as brancheslocais disponíveis, destacando a atual)
+•gitcheckout "Nome da branch" (Acessa  abranch)
+•gitcheckout -b "Nome da novabranch"(Cria uma nova branchbaseada na atual e acessa)
+•gitmerge "Nome da branch"(Mescla as branches, trazendo  dados da indicada para a atual)
+•gitbranch-d "Nome 
+
+Repositório  Remoto:
+•gitremote-v(Lista os repositórios  remotos)
+•gitremoteaddorigin"URL remota"(Vincula repositórios)
+•gitpull(Atualiza  o repositório  local a partir do remoto)
+•gitpush(Envia oscommitslocais para o remoto)
